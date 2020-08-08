@@ -1,7 +1,6 @@
 # August-leetcode-challenge
 ### _Solutions to August leetcode challenge problems_
 
-https://img.shields.io/github/issues/cherryWood55/August-leetcode-challenge
 
 1. Detect Capital
 2. Design HashSet
